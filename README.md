@@ -1,0 +1,2 @@
+This project is a full-stack web application developed using Python that demonstrates seamless integration between backend logic and database systems.The application features a responsive user interface connected to a secure and efficient backend for dynamic data handling.
+It is designed as a practical learning project for full-stack web development, focusing on real-world concepts such as database connectivity, backend processing, and scalable web application structure.
